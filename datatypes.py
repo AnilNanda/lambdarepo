@@ -1,4 +1,3 @@
-#!/usr/bin/python
-
 a=[1,2,3,4]
-print a[2]
+return a[1:]
+
